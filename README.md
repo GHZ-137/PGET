@@ -1,2 +1,2 @@
 # PGET
-Evolutionary method for passive gamma tomography
+Evolutionary methods for passive gamma tomography
